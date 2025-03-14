@@ -1,3 +1,12 @@
 .navbar-collapse {
     flex-grow: 0;
 }
+
+.navbar {
+    background-color: cornflowerblue;
+}
+
+.sezione-hero {
+    height: 92vh;
+    background-color: antiquewhite;
+}
